@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMongodb", "BasicMongodb.csproj", "{6FAD97DB-13D9-4D42-8815-29552648453E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAD97DB-13D9-4D42-8815-29552648453E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAD97DB-13D9-4D42-8815-29552648453E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAD97DB-13D9-4D42-8815-29552648453E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAD97DB-13D9-4D42-8815-29552648453E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F20215-8FFC-4D94-B4DF-19A53F29A219}
+	EndGlobalSection
+EndGlobal
